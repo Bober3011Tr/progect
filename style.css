@@ -1,0 +1,25 @@
+
+.text {
+    color:blueviolet
+}
+.p {
+    font-size: 50px;
+}
+.button {
+    position: absolute;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    cursor: pointer;
+  }
+.html {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qmAMtT9BbFZfwWQ8gCYKM6nuWQdKMbtgnw&usqp=CAU);
+}
+    
+
+
+
+
+
+
